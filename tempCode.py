@@ -1,2 +1,2 @@
-print("first line")
-print("second line")
+import os
+print(dir(os))
